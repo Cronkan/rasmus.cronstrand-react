@@ -6,15 +6,18 @@ const Transition = (props) => {
     return <Grow  {...props} />;
 }
 export default {
+    shape: {
+        borderRadius: 1
+    },
     palette: {
         type: 'dark',
 
         primary: purple,
         secondary: pink,
-      },
+    },
     typography: {
-        fontFamily:'IBM Plex Sans',
-        
+        fontFamily: 'IBM Plex Sans',
+
         useNextVariants: true,
         // h5: {
         //     fontFamily: 'Raleway',
