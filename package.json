@@ -1,0 +1,29 @@
+{
+  "name": "cronstrand-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^3.3.2",
+    "@material-ui/icons": "^3.0.1",
+    "axios": "^0.18.0",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-markdown": "^4.0.3",
+    "react-pose": "^3.3.7",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-react": "^7.0.0",
+    "parcel-bundler": "^1.10.3",
+    "parcel-plugin-markdown-string": "^1.3.3"
+  }
+}
