@@ -10,7 +10,7 @@ export default {
         borderRadius: 1
     },
     palette: {
-        type: 'dark',
+        type: 'light',
 
         primary: purple,
         secondary: pink,
