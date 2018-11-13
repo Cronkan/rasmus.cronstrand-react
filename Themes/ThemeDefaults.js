@@ -10,9 +10,8 @@ export default {
         borderRadius: 1
     },
     palette: {
-        type: 'light',
 
-        primary: purple,
+        primary: pink,
         secondary: pink,
     },
     typography: {
